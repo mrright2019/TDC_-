@@ -1,0 +1,4 @@
+classes= 6
+train=data/capture/train.txt
+valid=data/capture/valid.txt
+names=data/capture/classes.names
